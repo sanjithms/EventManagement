@@ -43,6 +43,41 @@ The project utilizes a modular directory structure to ensure scalability and mai
 | **Web Vitals** | Performance Tracking & Metrics |
 
 ---
+---
+
+## 🖥️ Application Interface
+
+To provide a clear understanding of the user experience, here is a visual overview of the **Event Management System** in action.
+
+### 🖼️ Platform Preview
+
+<p align="center">
+  <img width="100%" alt="Event Management System Main Dashboard" src="https://github.com/user-attachments/assets/c1dad5d0-91b6-4f3f-9595-3af1be593a4d" />
+  <br>
+  <em>Figure 1: Main Dashboard showing event listings and navigation.</em>
+</p>
+
+---
+
+## 🔍 Key UI Highlights
+
+| Feature | Description |
+| :--- | :--- |
+| **Hero Section** | A visually engaging header that highlights featured or upcoming events. |
+| **Event Grid** | A clean, card-based layout displaying event dates, titles, and descriptions. |
+| **Navigation Bar** | Quick access to Home, About, and Event Management controls. |
+| **Action Buttons** | Intuitive call-to-action buttons for "View Details" or "Register Now". |
+
+---
+
+## 📱 User Flow
+
+1. **Discovery:** Users land on the homepage and browse the curated list of events.
+2. **Filtering:** Use the navigation to find specific categories of gatherings.
+3. **Engagement:** Click on specific event cards to view comprehensive details (Location, Time, Organizer).
+4. **Management:** Administrators can use the backend logic to update or remove event listings.
+
+---
 
 ## ⚙️ Installation & Local Development
 
