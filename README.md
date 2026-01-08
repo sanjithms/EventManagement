@@ -53,6 +53,6 @@ The project utilizes a modular directory structure to ensure scalability and mai
 ### 2. Setup
 Clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/your-username/event-management-system.git](https://github.com/sanjithms/EventManagement.git)
-cd event-management-system
+git clone [https://github.com/sanjithms/EventManagement.git](https://github.com/sanjithms/EventManagement.git)
+cd EventManagement
 npm install
